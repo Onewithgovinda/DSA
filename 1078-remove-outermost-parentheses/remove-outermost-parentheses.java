@@ -14,7 +14,7 @@ class Solution {
                     ans.append(ch);
                 }
                 st.push(ch);
-            } 
+            }
             else {
                 st.pop();
 
